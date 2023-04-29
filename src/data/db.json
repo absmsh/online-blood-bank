@@ -1,0 +1,53 @@
+{
+  "donors": [
+    {
+      "FullName": "عدنان زامل",
+      "phoneNumber": "07832340733",
+      "Age": 10,
+      "email": "jehad_ahmad@hotmail.com",
+      "address": "الكرخ",
+      "bloodType": "B-",
+      "id": 3
+    },
+    {
+      "FullName": "عباس علي",
+      "phoneNumber": "07832340733",
+      "Age": 20,
+      "email": "abbas.mohammed.ims.2019@uoitc.edu.iq",
+      "address": "الرصافة",
+      "bloodType": "A+",
+      "id": 4
+    },
+    {
+      "FullName": "عدنان زامل",
+      "phoneNumber": "07710058847",
+      "Age": 26,
+      "email": "azamil@transforat.com",
+      "address": "الرصافة",
+      "bloodType": "B-",
+      "id": 5
+    }
+  ],
+  "staff": [
+    {
+      "FullName": "عدنان زامل",
+      "phoneNumber": "07710058847",
+      "Age": 21,
+      "email": "azamil@transforat.com",
+      "address": "الرصافة",
+      "postion": "محلل",
+      "id": 656
+    }
+  ],
+  "patients": [
+    {
+      "FullName": "عباس محمد",
+      "phoneNumber": "07710058847",
+      "Age": 14,
+      "email": "jehad_ahmad@hotmail.com",
+      "address": "الكرخ",
+      "bloodType": "O+",
+      "id": 1878
+    }
+  ]
+}
